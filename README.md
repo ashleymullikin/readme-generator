@@ -29,6 +29,7 @@ THEN I am taken to the corresponding section of the README
 
 #Use
 -Open the program
+-Open a new terminal
 -Type 'node index.js'
 -Answer the prompts and fill out required sections
 -If filled out properly a successful REAME.md will be created based off the information the user added
